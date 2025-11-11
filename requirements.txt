@@ -1,0 +1,12 @@
+pandas
+numpy
+openpyxl
+spacy
+sentence-transformers
+scikit-learn
+transformers
+accelerate
+bitsandbytes
+huggingface_hub
+tqdm
+torch
