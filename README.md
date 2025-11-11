@@ -141,3 +141,16 @@ embs = np.load("section_embeddings.npy")
 - Batch encode embeddings and cache results.
 - Review generated skills for consistency and redundancy.
 - Check copyright and licensing before publishing processed material.
+
+---
+
+## License and Research Context  
+
+This repository and its scripts were developed **for academic research purposes** within the **BPM Research Lab** at the **Federal University of Rio Grande do Sul (UFRGS)**, as part of a **graduate research project**.  
+
+All scripts and datasets are intended exclusively for **educational and research use**.  
+Redistribution, commercial use, or derivative works are **not allowed** without prior authorization from the authors and the BPM Research Lab.  
+
+If you use this code or its outputs in your work, please cite or acknowledge the **BPM Research Lab – UFRGS**.  
+
+Follow the lab on Instagram: [@bpm_research_lab_ufrgs](https://www.instagram.com/bpm_research_lab_ufrgs/)
