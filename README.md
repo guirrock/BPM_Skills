@@ -68,7 +68,7 @@ This repository contains a sequence of scripts that transform multiple BPM book 
   Load `conteudos_com_bloom.xlsx`, select diverse supporting contents by embedding similarity, and prompt an LLM to generate an heuristic-driven number of learning objectives per competence. Output: `objetivos_de_aprendizagem_final.xlsx`.
 
 - `skills_deduplicator.py`  
-  Given an `Ementas BPM.xlsx` with sheets per competence and a "Modelo" column showing which model produced each skill, cluster skills and choose representative ones while ensuring final counts ≥ the largest per-model count. Output: `habilidades_unicas_por_competencia.xlsx`.
+  Given an `Habilidades BPM multiplos LLM.xlsx` with sheets per competence and a "Modelo" column showing which model produced each skill, cluster skills and choose representative ones while ensuring final counts ≥ the largest per-model count. Output: `habilidades_unicas_por_competencia.xlsx`.
 
 ---
 
@@ -77,7 +77,7 @@ This repository contains a sequence of scripts that transform multiple BPM book 
   - `Livro_Baldam_pt.xlsx`, `Livro_Dumas_en.xlsx`, `Livro_Paim_pt.xlsx`, `Livro_Valle_Oliveira_pt.xlsx`, `Livro_Wensk_en.xlsx`
   - `Final_BPM_Books_Definitivo.xlsx`  
   - `Merged_BPM_Books_Classificados.xlsx`  
-  - `Ementas BPM.xlsx`
+  - `Habilidades BPM multiplos LLM.xlsx`
 
 - **Main outputs (examples)**:
   - `Final_BPM_Books_Definitivo.xlsx`  
