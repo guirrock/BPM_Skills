@@ -1,9 +1,6 @@
 # ==============================================================================
-# BASELINE 5: SEMÂNTICO VETORIAL (ENGLISH VERSION)
+# BASELINE 5: SEMÂNTICO VETORIAL
 # Referência: Le and Pinkwart (2015) e Shwe et al. (2024).
-# O que faz: O mais sofisticado dos "não-generativos". Traduz para inglês.
-# Usa vetores de alta dimensão (en_core_web_lg) para calcular a similaridade
-# matemática entre o título (ex: "Process Modeling") e os verbos da taxonomia, escolhendo o par perfeito.
 # ==============================================================================
 !pip install spacy -q
 !pip install deep-translator -q
